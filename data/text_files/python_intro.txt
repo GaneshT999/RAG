@@ -1,0 +1,7 @@
+This is the main text content I am using to create RAG
+    genterate random text about retrieval augmented generation 
+   Python 
+   1. Python is a high-level programming language.
+    2. It is widely used for web development, data analysis, artificial intelligence, and more.
+    3. Python has a large standard library and a vibrant ecosystem of third-party packages.
+    4. It is known for its readability and simplicity, making it a popular choice for beginners and experienced developers alike.
